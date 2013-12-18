@@ -1,5 +1,5 @@
 /*************************************************** 
- Blinkenlights for Ardunio
+ Blinkenlights for Arduino
  Copyright 2013, Alexander von Gluck IV <kallisti5@unixzen.com>
  Licensed under the MIT license.
  
