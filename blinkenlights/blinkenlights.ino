@@ -11,6 +11,8 @@
    Adafruit_LEDBackpack Library
 
  Supports 1-8 CPUS
+
+ Wire: Clock to a5, data to a4
  
  A modern and tiny BeBox Blinkenlights
  ****************************************************/
